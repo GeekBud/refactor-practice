@@ -1,0 +1,8 @@
+replaceInheritanceWithDelegation\after\Stack.class
+replaceInheritanceWithDelegation\before\Vector.class
+encapsulateCollection\after\Course.class
+encapsulateCollection\before\Person.class
+replaceInheritanceWithDelegation\after\Vector.class
+replaceInheritanceWithDelegation\before\Stack.class
+encapsulateCollection\before\Course.class
+encapsulateCollection\after\Person.class

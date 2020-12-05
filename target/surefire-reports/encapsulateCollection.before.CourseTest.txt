@@ -1,0 +1,9 @@
+-------------------------------------------------------------------------------
+Test set: encapsulateCollection.before.CourseTest
+-------------------------------------------------------------------------------
+Tests run: 2, Failures: 1, Errors: 0, Skipped: 0, Time elapsed: 0.041 s <<< FAILURE! - in encapsulateCollection.before.CourseTest
+before  Time elapsed: 0.031 s  <<< FAILURE!
+java.lang.AssertionError: expected:<2> but was:<3>
+	at encapsulateCollection.before.CourseTest.encapsulationTest(CourseTest.java:71)
+	at encapsulateCollection.before.CourseTest.before(CourseTest.java:23)
+
